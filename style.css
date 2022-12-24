@@ -1,0 +1,18 @@
+#h3{ 
+    color: blue; display: inline;
+} 
+#btn1{ 
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+    background-color: blue; color: white; border-radius: 100%; float: right; margin-right: 20px; margin-top: 7.5px; 
+}
+.play{ 
+    font-size: 22px; background-color: blue; color: white; padding: 0px 15px; 
+} 
+#status{ 
+    background-color: white; color: blue; border-radius: 5px; border: 2px solid blue; padding: 5px 10px; font-size: 20px; display: inline-block; 
+}
+#canvas{ 
+    border: 5px solid white; height: 500px; width: 700px; 
+}
